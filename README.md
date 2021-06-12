@@ -1,3 +1,3 @@
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/64726822/121776631-e4f39b00-cbc8-11eb-9cc7-e83c7bba455e.png(https://zzangwoolog.tistory.com/)" alt="blog"/>
+	<a href="https://zzangwoolog.tistory.com"><img src="https://user-images.githubusercontent.com/64726822/121776729-782cd080-cbc9-11eb-831e-ada2aed97493.png" border="0"</a>
 </p>
