@@ -3,4 +3,5 @@
 </p>
 	
 # <b>Tech Stack</b>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <a><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon Aws&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon Aws&logoColor=white"/>
